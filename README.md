@@ -16,7 +16,6 @@
     </td>
     <td>
       <img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" alt="Programming Illustration" width="200"/>
-
     </td>
   </tr>
 </table>
@@ -25,7 +24,7 @@
 
 ### 🌐 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/sasheen-widanagamage" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -41,7 +40,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -65,15 +64,14 @@
 
 ### 📈 GitHub Activity Graph
 
-[![Sasheen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sasheen-widanagamage&theme=tokyonight)](https://git.io/praveenscience)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasheen-widanagamage&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 📊 GitHub Stats
 
-| ![Sasheen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasheen-widanagamage&show_icons=true&theme=tokyonight) | ![Sasheen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasheen-widanagamage&theme=tokyonight) |
+| ![Sasheen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasheen-widanagamage&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=sasheen-widanagamage&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasheen-widanagamage&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=sasheen-widanagamage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
-
