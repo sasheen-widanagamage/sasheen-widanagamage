@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasheen Widanagamage</h1>
-<h3 align="center">An undergraduate student passionate about building web applications and learning data science.</h3>
+<h3 align="center">An enthusiastic undergraduate passionate about crafting web applications and diving into data science.</h3>
 
 ---
 
@@ -7,10 +7,10 @@
   <tr>
     <td>
 
-- 🎓 I’m currently studying at **Sri Lanka Institute of Information Technology (SLIIT)**, pursuing a **BSc (Hons) in IT (Specializing in Data Science)**  
-- 🔭 I’m currently working on: **Online Video Downloading System**  
-- 🌱 I’m learning: **Python and Data Analysis**  
-- 💬 Ask me about: **Web Development, OOP Concepts**  
+- 🎓 Currently pursuing a **BSc (Hons) in IT, specializing in Data Science** at the **Sri Lanka Institute of Information Technology (SLIIT)**
+- 🔭 Working on an **Online Video Downloading System** to streamline video access and management
+- 🌱 Learning advanced **Python** techniques and **Data Analysis** methods to unlock valuable insights
+- 💬 Ask me about **Web Development**, **Object-Oriented Programming (OOP)**, and practical coding approaches
 - 📫 Reach me at: **sasheenwidanagamage@gmail.com**
 
     </td>
