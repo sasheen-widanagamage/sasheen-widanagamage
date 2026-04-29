@@ -108,9 +108,6 @@
   <a href="https://developer.android.com" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  </a>
   <a href="https://www.chartjs.org" target="_blank">
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   </a>
