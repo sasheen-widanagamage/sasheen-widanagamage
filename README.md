@@ -117,16 +117,5 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasheen-widanagamage&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📊 GitHub Stats
-
-| ![Sasheen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasheen-widanagamage&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com/?user=sasheen-widanagamage&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasheen-widanagamage&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=sasheen-widanagamage&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ---
